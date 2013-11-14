@@ -126,6 +126,7 @@ DEPENDENCIES
   jquery-rails
   mongo_mapper
   rails (= 4.0.1)
+  rake
   sass-rails (~> 4.0.0)
   sdoc
   turbolinks
