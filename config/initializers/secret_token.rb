@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Railner::Application.config.secret_key_base = 'ce0bdcbd0bff4faf2c8d126ca61a03a99eb11303c262bfcb48dc64ba34625231dcb0ee85c9c165bff675f4ffbbe7ebe09ebdb6842913b0f8bb7080206fe8ae97'
+Railner::Application.config.secret_key_base = 'd872707bdf22f430b653dba1343123396cc0043314170f7b0d30e117344cc79916e248e08f161a09ce834843618990779cd192e0af5750884dbdc602d72adce8'
