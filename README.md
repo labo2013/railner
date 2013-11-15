@@ -1,6 +1,6 @@
-== Railner
+## Railner
 
-[![Build Status](https://secure.travis-ci.org/labo2013/railner.png?branch=master)]
+Travis: [![Build Status](https://secure.travis-ci.org/labo2013/railner.png?branch=master)]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
