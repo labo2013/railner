@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 require 'rubygems'
-require 'mongo'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
